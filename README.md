@@ -2,7 +2,7 @@
 
 A simple program compiler
 
-Program Specifics
+### Program Specifics
 
 ```
 Project Description
@@ -16,7 +16,7 @@ optimiser-e* - this copies an abstract syntax tree and evaluates expressions whe
 ```
 
 
-Program Grammer
+### Program Grammer
 
 The following Chart providess the grammer for the language being compiled.
 
