@@ -1,0 +1,21 @@
+<class>
+   <class-name>myclass</class-name>
+   <class-var-decs>
+      <var-dec>
+         <var-segment>static</var-segment>
+         <var-name>c</var-name>
+         <var-offset>0</var-offset>
+         <var-type>boolean</var-type>
+      </var-dec>
+   </class-var-decs>
+   <class-var-decs>
+      <var-dec>
+         <var-segment>this</var-segment>
+         <var-name>g</var-name>
+         <var-offset>0</var-offset>
+         <var-type>char</var-type>
+      </var-dec>
+   </class-var-decs>
+   <subr-decs>
+   </subr-decs>
+</class>
