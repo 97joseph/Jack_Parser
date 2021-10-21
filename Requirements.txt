@@ -1,0 +1,8 @@
+Project Description
+In this assignment you will complete a variation of projects 10 and 11 in the nand2tetris course, reworked descriptions of Nand2Tetris Projects 10 and 11 are shown below. In particular, you will write the following programs that are used to implement different components of an optimising Jack compiler that compiles a Jack class into Hack Virtual Machine (VM) code:
+
+parser - this parses a Jack program and constructs an abstract syntax tree.
+codegen - this takes an abstract syntax tree and outputs equivalent VM code.
+pretty - this takes an abstract syntax tree and produces a carefully formatted Jack program.
+optimiser-r^ - this copies an abstract syntax tree and removes redundant code where possible.
+optimiser-e* - this copies an abstract syntax tree and evaluates expressions where possible.
